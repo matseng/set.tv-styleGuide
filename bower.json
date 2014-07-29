@@ -1,0 +1,22 @@
+{
+  "name": "MyApp",
+  "version": "0.0.1",
+  "homepage": "http://matseng.github.io/MyApp/",
+  "authors": [
+    "Michael Tseng <matseng@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0"
+  },
+  "main": "index.html"
+}
